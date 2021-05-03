@@ -34,6 +34,7 @@ class About extends Me
             Javascript::class,
             TailwindCss::class,
             CloudflareServices::class,
+            Solidity::class
         ];
     }
 

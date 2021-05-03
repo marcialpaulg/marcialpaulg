@@ -35,6 +35,7 @@ export default function Home() {
               Javascript::class,
               TailwindCss::class,
               CloudflareServices::class,
+              Solidity::class
           ];
       }
 
