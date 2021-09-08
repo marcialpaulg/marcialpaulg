@@ -1,6 +1,6 @@
 ### Howdy! Marcial here. <a href="https://marcialpaulg.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-#### I'm a Full-Stack Developer living near Davao city, Philippines.
+#### I'm a Data scientist living near Davao city, Philippines.
 
 ```php
 <?php
