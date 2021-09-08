@@ -60,8 +60,8 @@ export default function Home() {
           <div class="max-w-xl">
             <h2 class="text-white text-xl">Howdy, Marcial here. 👋</h2>
             <p>
-              I'm a Full-Stack Developer near Davao city, Philippines. I'm a
-              Senior Engineer and Founder at{" "}
+              I'm a Data scientist near Davao city, Philippines. I'm a Senior
+              Engineer and Founder at{" "}
               <a href="#" target="_blank" rel="noopener" class="underline">
                 Couple of Exciting Companies
               </a>
