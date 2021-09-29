@@ -52,7 +52,7 @@ export default function Home() {
           <div class="hidden w-full max-w-xs text-center lg:block">
             <Image
               class="rounded-full"
-              src="/mars_profile.jpg"
+              src="/mars_profile.png"
               width="125"
               height="125"
             />
