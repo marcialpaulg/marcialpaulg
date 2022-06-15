@@ -55,6 +55,7 @@ export default function Home() {
               src="/me.jpg"
               width="125"
               height="125"
+              quality={100}
             />
           </div>
           <div class="max-w-xl">
